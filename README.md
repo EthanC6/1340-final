@@ -1,10 +1,8 @@
 # **1340 Fianl Project - README File**
 
 ## **Group **
-Jiayi Cheng, 1011110049
-
-Mengyao Li, 
-
+Jiayi Cheng, 1011110049<br>
+Mengyao Li, <br>
 Yiyang Qin,
 
 Instructor: Dr. Maher Elshakankiri
@@ -27,20 +25,13 @@ Project Title is a project that does something useful. It was created to solve a
 To run the analysis program, Python must be installed on the system.
 The program makes use of a number of packages. Run the following commands to install them:
 
-pip install pandas
-
-pip install matplotlib
-
-pip install seaborn
-
-pip install scipy
-
-pip install scikit-learn
-
-pip install statsmodels
-
-pip install imbalanced-learn
-
+pip install pandas<br>
+pip install matplotlib<br>
+pip install seaborn<br>
+pip install scipy<br>
+pip install scikit-learn<br>
+pip install statsmodels<br>
+pip install imbalanced-learn<br>
 pip install numpy
 
 ## **Usage**
