@@ -9,10 +9,10 @@ Yiyang Qin,
 
 Instructor: Dr. Maher Elshakankiri
 
-Course code: INF1340
-Course name: Programming for Data Science
-Program: Master of Information
-Faculty of Information
+Course code: INF1340<br>
+Course name: Programming for Data Science<br>
+Program: Master of Information<br>
+Faculty of Information<br>
 University of Toronto
 
 Date Created: <2024-11-19>
