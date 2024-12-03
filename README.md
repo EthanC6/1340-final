@@ -1,6 +1,6 @@
 # **1340 Fianl Project - README File**
 
-## **Group **
+## **Group**
 Jiayi Cheng, 1011110049<br>
 Mengyao Li, <br>
 Yiyang Qin,
@@ -17,7 +17,7 @@ Date Created: <2024-11-19>
 Date Modified: <2024-12-03>
 
 
-## **Analyzing Potential Trends of COVID-19 in Different Countries **
+## **Analyzing Potential Trends of COVID-19 in Different Countries**
 
 Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
 
