@@ -43,6 +43,7 @@ INF 1340 Final Project.py
 3. When prompted, enter the input file name: 'covid_data.csv'
 
 ## **Sample Output**
+[Open the notebook on GitHub](https://github.com/your-repo/your-notebook.ipynb)
 
 
 
