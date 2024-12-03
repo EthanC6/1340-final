@@ -26,13 +26,21 @@ Project Title is a project that does something useful. It was created to solve a
 ## **Installation**
 To run the analysis program, Python must be installed on the system.
 The program makes use of a number of packages. Run the following commands to install them:
+
 pip install pandas
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install scipy
+
 pip install scikit-learn
+
 pip install statsmodels
+
 pip install imbalanced-learn
+
 pip install numpy
 
 ## **Usage**
