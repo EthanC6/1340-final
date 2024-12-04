@@ -19,7 +19,7 @@ Date Modified: <2024-12-03>
 
 ## **Analyzing Potential Trends of COVID-19 in Different Countries**
 
-This program analyzes a vast dataset of COVID-19, spanning from 2020-01-05 to 2024-08-04. It contains a comprehensive collection of data, focusing on both global trends and specific metrics related to countries. This dataset includes key statistics such as daily case counts, death rates, and vaccination rates over time. 
+This program analyzes a vast dataset of COVID-19, spanning from 2020-01-05 to 2024-08-04. It contains a comprehensive collection of data, focusing on both global trends and specific metrics related to countries. This dataset includes key statistics such as daily case counts, death rates, and vaccination rates over time. The main purpose is to visualize the dataset distribution and explore the potential relationships between variables, and develop predictive models to track and predict new COVID-19 cases, total deaths, and total mortality under different scenarios. This project combines three types of data analysis, descriptive, diagnostic, and predictive analysis, and different types of regression to gain insights into the dynamics and statistical variables of COVID-19 global trends.
 
 The dataset is sourced from Kaggle and can be found her:
 https://www.kaggle.com/datasets/assemelqirsh/covid19-dataset/data
