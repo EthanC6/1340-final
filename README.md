@@ -1,9 +1,12 @@
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; line-height: 1.5;">
+</div>
+
 # **1340 Fianl Project - README File**
 
-## **Group**
+## **Group 12**
 Jiayi Cheng, 1011110049<br>
 Mengyao Li, 1009902535<br>
-Yiyang Qin,
+Yiyang Qin, 1011790331
 
 Instructor: Dr. Maher Elshakankiri
 
