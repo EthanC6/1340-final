@@ -1,7 +1,7 @@
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; line-height: 1.5;">
 </div>
 
-# **1340 Final Project - README File**
+# **COVID-19 Data Analysis Project - README File**
 
 ## **Group 12**
 Jiayi Cheng, 1011110049<br>
