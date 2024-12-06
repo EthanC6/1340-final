@@ -3,11 +3,6 @@
 
 # **COVID-19 Data Analysis Project - README File**
 
-## **Group 12**
-Jiayi Cheng, 1011110049<br>
-Mengyao Li, 1009902535<br>
-Yiyang Qin, 1011790331
-
 Instructor: Dr. Maher Elshakankiri
 
 Course code: INF1340<br>
